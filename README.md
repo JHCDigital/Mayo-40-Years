@@ -16,4 +16,25 @@ Mayo Clinic in Rochester had done very well for itself, operating exclusively ou
 
 ## The Beginning of Mayo Clinic in Florida
 
+# The Impact
+```geojson
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "properties": {
+        "name": "Central Park, New York"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9654, 40.7829]
+      }
+    }
+  ]
+}
+```
+
+
  
