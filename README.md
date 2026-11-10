@@ -12,29 +12,16 @@ The narrative covers Mayo Clinic in Florida from its conception through its 40 y
 
 # The History
 ## Expansion to the South
-Mayo Clinic in Rochester had done very well for itself, operating exclusively out of Minnesota for 122 years. It is still globally recognized as a leading medical facility. J.E. and Flo Davis, owners of the Winn-Dixie grocery store chain along with Dr. Frances Bartlett Kinne, president of Jacksonville University are largely recognized as trailblazers for Mayo Clinic in Florida's existence. J.E. Davis had been well acquainted with Mayo Clinic in Rochester and had been travelling to and from the facility for years. There were clear benefits for Mayo to expand to the South including the weather and creating a widespread area of impact. In 1978, J.E. was determined to bring the successful clinic down to Florida after hearing that his doctor, Dr. Hugh Butt, had developed frost bite on his commute to the hospital. He began a campaign to solicit community support in Jacksonville, Florida, and shake Mayo leadership's apprehension of the idea. In 1982, the Davis family offered to donate 140 acres of land and raise 6 million dollars, which they were successful in by 1984. At the same time, Mayo CEO, Dr. Gene Mayberry gathered a team of four physicians and one administrator to analyze how the expansion proposal could actually go. These meetings were held as spaghetti dinners at the Hardwick Building in Rochester. On August 20, 1984, Mayo Clinic opened a "satellite" clinic in Jacksonville, Florida. 
+Mayo Clinic in Rochester had done very well for itself, operating exclusively out of Minnesota for 122 years. It is still globally recognized as a leading medical facility. J.E. and Flo Davis, owners of the Winn-Dixie grocery store chain along with Dr. Frances Bartlett Kinne, president of Jacksonville University are largely recognized as trailblazers for Mayo Clinic in Florida's existence. J.E. Davis had been well acquainted with Mayo Clinic in Rochester and had been travelling to and from the facility for years. There were clear benefits for Mayo to expand to the South including the weather and creating a widespread area of impact. In 1978, J.E. was determined to bring the successful clinic down to Florida after hearing that his doctor, Dr. Hugh Butt, had developed frost bite on his commute to the hospital. He began a campaign to solicit community support in Jacksonville, Florida, and shake Mayo leadership's apprehension of the idea. In 1982, the Davis family offered to donate 140 acres of land and raise 6 million dollars, which they were successful in by 1984. At the same time, Mayo CEO, Dr. Gene Mayberry gathered a team of four physicians and one administrator to analyze how the expansion proposal could actually go. These meetings were held as spaghetti dinners at the Hardwick Building in Rochester. On August 20, 1984, Mayo Clinic opened a "satellite" clinic in Jacksonville, Florida, with no intention of opening a full hospital. However, the success from that little test clinic was undeniable and Mayo was convinced that they needed to go all in for the expansion. 
 
-## The Beginning of Mayo Clinic in Florida
+## Mayo Clinic in Florida
+On October 3, 1986, Mayo Clinic held its dedication ceremony for the completed Davis Building. 800 guests attended the celebration, including J.E. Davis, Jacksonville Mayor Jake Godbold, and the Reverend Billy Graham, who was the speaker of the event. The building was named in honor of J.E. Davis and his commitment to bringing Mayo Clinic to Florida. Rev. Billy Graham recollected how far the history of Mayo had come from Dr. William Worrall Mayo and his medical practice to their official second location. The Davis building was five stories tall and cost approximately $35 million. Ten days after the celebration, on October 13, 1986, Mayo Clinic in Florida officially opened their doors to patients. The hospital had accumulated over 2,700 appointments with patients coming from 30 states and six foreign countries. Approximately 35 physicians and 145 allied health staff stood ready to see if they could replicate the high quality care that the clinic in Rochester was known for. The clinic began growing far beyond what its founders had initially projected, swiftly becoming the most popular hospital in Jacksonville. In the 1990s, the Davis Building expanded by four floors, and new research facilities, outpatient surgery services, and radiation oncology centers were added. Scientists studied diseases like cancer, alzheimer's disease, and cardiovascular conditions as the research department of the Florida campus grew. Today, Mayo Clinic in Florida is a well respected medical center that stands amongst the best statewide. What began as an idea from J.E. Davis and a small group of determined community members has developed into one of the most important healthcare institutions in Northeast Florida. 
+<p> 
+One of the earliest major developments began in 1990 with the groundbreaking of the Phase II expansion project. Completed in 1991, this project more than doubled the size of the original facilities, adding approximately 170,000 square feet of space to accommodate the growing number of patients and medical professionals. The Davis Building, which served as the original center of operations, was expanded to provide additional space for medical services and administrative functions. As the campus continued to grow, Mayo Clinic placed greater emphasis on developing its research facilities. In 1993, the John and Jennie Birdsall Medical Research Building opened, providing dedicated laboratory space for scientific research, particularly in neuroscience. By 1995, additional outpatient surgery and radiation oncology facilities had opened, further expanding the campus's ability to provide specialized medical treatment. These developments reflected Mayo Clinic's commitment to creating a comprehensive medical environment where patient care, education, and research could operate together.
+<p/>
 
-# The Impact
-```geojson
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "id": 1,
-      "properties": {
-        "name": "Central Park, New York"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.9654, 40.7829]
-      }
-    }
-  ]
-}
-```
+# The Exhibit
+This program's physical exhibit was curated by
 
 
  
