@@ -14,11 +14,6 @@ Dr. James Bolling has certifications in ophthamology, retinal diseases, and intr
   <p align="center">
   <img src="https://github.com/user-attachments/assets/f16996e1-1ec3-4f4e-9759-1293b7bb1ed3" alt=" " width="40%">
   </p>
-  
-  <p align="center">
-    Click here to purchase the book! 
-    <https://mcpress.mayoclinic.org/product/mayo-clinic-in-florida/>
-</p>
  
 The narrative covers Mayo Clinic in Florida from its conception through its 40 years of service and expansion. The book sought out to answer an ambitious question: Could Mayo Clinic's distinctive model of care be extended to serve patients in another part of the country? Before the construction of its Jacksonville location, the only Mayo campus at the time was located in Rochester, Minnesota. The introduction of major regional campus was uncharted territory. Wright-Peterson credits Dr. Steven Buskirk and Dr. Kent Thielen for the inspiration to write the book. Dr. Buskirk is Professor of Radiation Oncology and Chair of the Department of Radiation Oncology at Mayo Clinic in Florida. Dr. Thielen is the vice president of Mayo Clinic and CEO of Mayo Clinic in Florida. As Wright-Peterson dug deeper into the story she used interviews conducted by the Historical Activities Committee and archival material made accessible by the efforts of archivist Carole LaRochelle and the Senior Division Chair and Education Administrator, Nell Robinson. The Historical Activities Committee interviewed over one hundred people who were involved in the development of Mayo Clinic. These stories allowed Wright-Peterson to weave a complete history centered on the authentic journey of the clinic and those involved with its development. Ultimately, the book highlights how Mayo Clinic Florida honors its legacy by preserving the stories and values of those who championed its success.
 
@@ -35,7 +30,16 @@ On October 3, 1986, Mayo Clinic held its dedication ceremony for the completed D
 # The Exhibit
 This program's physical exhibit was curated by the Jacksonville History Center's research archivist, Jason Robilio. The focus of the exhibit was on medical history throughout Jacksonville with special attention to the St. Luke's Hospital. The Jacksonville History Center archives has ample material from Old St. Luke's because its main building resides in the St. Luke's Hospital that was built in 1878. The hospital was well established and deeply significant to Jacksonville long before Mayo came to town. However, when the Mayo Clinic in Jacksonville opened, Mayo purchased St. Luke’s Hospital in 1987 to serve as its primary admitting hospital. After their affiliation for 21 years, St. Luke's was passed onto St. Vincent's Health System.
 <p align="center">
-  <img src= alt=" " width="40%">
+  <img src="https://github.com/user-attachments/assets/4a3ccba6-da36-4189-9789-e0ddaa332888" alt=" " width="40%">
+  </p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/df7aea8d-6550-48f5-a09f-89394967ea7d" alt=" " width="40%">
+  </p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/acf89ef3-270b-4ce0-a980-4ee13c98b1f2" alt=" " width="40%">
+  </p>
+  <p align="center">
+  <img src="https://github.com/user-attachments/assets/1d43fe21-fa7a-40ef-b169-92a835acf79c" alt=" " width="40%">
   </p>
  
 # Gallery
