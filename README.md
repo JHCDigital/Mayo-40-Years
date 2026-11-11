@@ -32,6 +32,18 @@ On October 3, 1986, Mayo Clinic held its dedication ceremony for the completed D
 
 # The Exhibit
 This program's physical exhibit was curated by the Jacksonville History Center's research archivist, Jason Robilio. The focus of the exhibit was on medical history throughout Jacksonville with special attention to the St. Luke's Hospital. The Jacksonville History Center archives has ample material from Old St. Luke's because its main building resides in the St. Luke's Hospital that was built in 1878. The hospital was well established and deeply significant to Jacksonville long before Mayo came to town. However, when the Mayo Clinic in Jacksonville opened, purchased St. Luke’s Hospital in 1987 to serve as its primary admitting hospital. After their affiliation for 21 years, St. Luke's was passed onto St. Vincent's Health System.
+<p align="center">
+  <img src= alt=" " width="40%">
+  </p>
  
-
+# Gallery
+<details>
+  <summary>Click to view Gallery</summary>
+  <img src=>
+  <img src=>
+    <img src=>
+  <img src=>
+   <img src=>
+  
+</details>
  
