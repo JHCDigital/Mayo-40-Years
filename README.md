@@ -12,11 +12,9 @@ Virginia Wright-Peterson is a Minnesotan author, educator and speaker. Her books
   <p align="center">
   <img src="https://github.com/user-attachments/assets/f16996e1-1ec3-4f4e-9759-1293b7bb1ed3" alt=" " width="40%">
   </p>
-
+  
   <p align="center">
-</p>
-
-  <p align="center">
+    Click here to purchase the book! 
     https://mcpress.mayoclinic.org/product/mayo-clinic-in-florida/
 </p>
  
