@@ -17,7 +17,7 @@ Dr. James Bolling has certifications in ophthamology, retinal diseases, and intr
   
   <p align="center">
     Click here to purchase the book! 
-    https://mcpress.mayoclinic.org/product/mayo-clinic-in-florida/
+    <https://mcpress.mayoclinic.org/product/mayo-clinic-in-florida/>
 </p>
  
 The narrative covers Mayo Clinic in Florida from its conception through its 40 years of service and expansion. The book sought out to answer an ambitious question: Could Mayo Clinic's distinctive model of care be extended to serve patients in another part of the country? Before the construction of its Jacksonville location, the only Mayo campus at the time was located in Rochester, Minnesota. The introduction of major regional campus was uncharted territory. Wright-Peterson credits Dr. Steven Buskirk and Dr. Kent Thielen for the inspiration to write the book. Dr. Buskirk is Professor of Radiation Oncology and Chair of the Department of Radiation Oncology at Mayo Clinic in Florida. Dr. Thielen is the vice president of Mayo Clinic and CEO of Mayo Clinic in Florida. As Wright-Peterson dug deeper into the story she used interviews conducted by the Historical Activities Committee and archival material made accessible by the efforts of archivist Carole LaRochelle and the Senior Division Chair and Education Administrator, Nell Robinson. The Historical Activities Committee interviewed over one hundred people who were involved in the development of Mayo Clinic. These stories allowed Wright-Peterson to weave a complete history centered on the authentic journey of the clinic and those involved with its development. Ultimately, the book highlights how Mayo Clinic Florida honors its legacy by preserving the stories and values of those who championed its success.
