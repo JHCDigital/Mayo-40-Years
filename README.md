@@ -45,7 +45,6 @@ This program's physical exhibit was curated by the Jacksonville History Center's
 # Gallery
 <details>
   <summary>Click to view Gallery</summary>
-  <img src=>
   <img src="https://github.com/user-attachments/assets/6415dbe6-5bae-4781-aa37-ae5c28bef678">
     <img src="https://github.com/user-attachments/assets/eec291f6-a544-4b75-9603-56ead4931f35">
   <img src="https://github.com/user-attachments/assets/63b36795-0093-4f2e-88c3-1a68785a957a">
